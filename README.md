@@ -1,6 +1,6 @@
 <div align="center">    
  
-# 🌍🕺 PEnG: Pose-enhanced Geo-Localisation 📡🗺️ 
+# 🌍🕺 PEnG: Pose-Enhanced Geo-Localisation 📡🗺️ 
 <p align="middle">
  <a href="https://tavisshore.co.uk/">Tavis Shore</a>
  <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>
@@ -70,7 +70,7 @@ Cross-view Geo-localisation is typically performed at a coarse granularity, beca
 ```
 @InProceedings{Shore_PEnG,
     author    = {Shore, Tavis and Mendez, Oscar and Hadfield, Simon},
-    title     = {PEnG: Pose-enhanced Geo-Localisation},
+    title     = {PEnG: Pose-Enhanced Geo-Localisation},
     booktitle = {},
     month     = {},
     year      = {}
