@@ -1,6 +1,6 @@
 <div align="center">    
  
-# 🌍 PEnG: Pose-enhanced Geo-Localisation 📡🗺️ 
+# 🌍🕺 PEnG: Pose-enhanced Geo-Localisation 📡🗺️ 
 <p align="middle">
  <a href="https://tavisshore.co.uk/">Tavis Shore</a>
  <a href="https://cvssp.org/Personal/OscarMendez/index.html">Oscar Mendez</a>
@@ -28,15 +28,17 @@ Cross-view Geo-localisation is typically performed at a coarse granularity, beca
 
 ### 🧬 City Graph Representation
 
+<!--
 <p align="middle">
    <img src="https://github.com/user-attachments/assets/1f34ccbd-92ac-4374-b7a1-98bad9342277" width="32%" />
    <img src="/img2.png" width="32%" /> 
    <img src="/img3.png" width="32%" />
 </p>
+-->
 
 
 ---
-## 🧰 SpaGBOL: Benchmarking
+## 🧰 PEnG: Benchmarking
 
 🚧 Under Construction
 
@@ -45,7 +47,7 @@ Cross-view Geo-localisation is typically performed at a coarse granularity, beca
 
 ```
 
-#### 🏭 Data Download
+#### 🏭 Data Download 
 ```
 
 ```
@@ -55,26 +57,20 @@ Cross-view Geo-localisation is typically performed at a coarse granularity, beca
 
 ```
 
-#### BEV-CV Training
-```
-
-```
-
-#### BEV-CV Evaluation
+#### PEnG Evaluation
 ```
 
 ```
 
 
-
-## SpaGBOL: Benchmark Results
+## PEnG: Benchmark Results
 
 
 ## ✒️ Citation   
 ```
 @InProceedings{Shore_PEnG,
     author    = {Shore, Tavis and Mendez, Oscar and Hadfield, Simon},
-    title     = {},
+    title     = {PEnG: Pose-enhanced Geo-Localisation},
     booktitle = {},
     month     = {},
     year      = {}
