@@ -14,7 +14,7 @@
 </p>
 
 [![Paper](http://img.shields.io/badge/ArXiv-XXXX-B31B1B.svg)]()
-[![Conference](http://img.shields.io/badge/RAL-2025-4b44ce.svg)]()
+[![Conference](http://img.shields.io/badge/UnderReview-2025-4b44ce.svg)]()
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/peng/)
 [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
