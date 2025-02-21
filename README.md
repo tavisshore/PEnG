@@ -15,7 +15,7 @@
  <a>University of Surrey, Guildford, GU2 7XH, United Kingdom </a>
 </p>
 
-[![arxiv](http://img.shields.io/badge/cv.LG-2411.15742-B31B1B.svg)](https://arxiv.org/abs/2411.15742)
+[![arxiv](http://img.shields.io/badge/cs.LG-2411.15742-B31B1B.svg)](https://arxiv.org/abs/2411.15742)
 [![Conference](http://img.shields.io/badge/RA--L-2025-4b44ce.svg)](https://www.ieee-ras.org/publications/ra-l)
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/peng/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](tavisshore.co.uk/posts/PEnG)
