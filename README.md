@@ -67,17 +67,18 @@ Cross-view Geo-localisation is typically performed at a coarse granularity, beca
 ## PEnG: Benchmark Results
 
 
-## ✒️ Citation (Early Access)
+## ✒️ Citation
 ```
 @ARTICLE{10906427,
   author={Shore, Tavis and Mendez, Oscar and Hadfield, Simon},
   journal={IEEE Robotics and Automation Letters}, 
   title={PEnG: Pose-Enhanced Geo-Localisation}, 
   year={2025},
-  volume={},
-  number={},
-  pages={1-8},
+  volume={10},
+  number={4},
+  pages={3835-3842},
   doi={10.1109/LRA.2025.3546513}}
+
 ```
 ## 📗 Related Works
 ### 🍝 [SpaGBOL: Spatial-Graph-Based Orientated Localisation](https://github.com/tavisshore/SpaGBOL)
