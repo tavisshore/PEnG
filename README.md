@@ -20,6 +20,8 @@
 [![Project Page](http://img.shields.io/badge/Project-Page-green)](https://tavisshore.co.uk/peng/)
 [![License](https://img.shields.io/badge/license-MIT-blue)](tavisshore.co.uk/posts/PEnG)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/peng-pose-enhanced-geo-localisation/multi-view-geo-localisation-on-peng-90deg)](https://paperswithcode.com/sota/multi-view-geo-localisation-on-peng-90deg?p=peng-pose-enhanced-geo-localisation)
+
 
 </div>
  
